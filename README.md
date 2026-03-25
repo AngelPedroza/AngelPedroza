@@ -152,7 +152,7 @@ me.say_hi()
 
 ### 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AngelPedroza&theme=tokyo-night&hide_border=true" width="100%" alt="Contribution Graph"/>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AngelPedroza&theme=tokyo-night&hide_border=true&include_all_commits=true)](https://github.com/AngelPedroza)
 
 </div>
 
