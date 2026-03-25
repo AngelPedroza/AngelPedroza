@@ -30,96 +30,41 @@ me = Angel()
 me.say_hi()
 ```
 
-## 💻 Backend Development Arsenal
+## 🟢 Now
 
-<details open>
-<summary><b>🐍 Python Ecosystem</b></summary>
+> *Última actualización: Marzo 2026*
 
-### Web Frameworks & APIs
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+- 🏗️ Building data pipelines & integrations @ [Attention](https://github.com/attentiontech)
+- 📚 Digging into distributed systems patterns and Apache Iceberg internals
+- 🔭 Exploring stream processing with Kafka + Go
 
-### Task Queue & Async Processing
-![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
-![asyncio](https://img.shields.io/badge/asyncio-%23000000.svg?style=for-the-badge&logo=python&logoColor=white)
+## 💻 Tech Stack
 
-### Testing & Validation
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+**Backend**
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
 
-### Data Processing Libraries
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-</details>
+**Data Engineering**
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apache%20airflow&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![Trino](https://img.shields.io/badge/Trino-DD00A1?style=flat-square&logo=trino&logoColor=white)
+![Apache Iceberg](https://img.shields.io/badge/Apache_Iceberg-4A154B?style=flat-square&logo=apache&logoColor=white)
+![Kedro](https://img.shields.io/badge/Kedro-FCA17D?style=flat-square&logo=python&logoColor=white)
 
-<details open>
-<summary><b>🦦 Golang Stack</b></summary>
-
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![GORM](https://img.shields.io/badge/GORM-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Go Kit](https://img.shields.io/badge/Go_Kit-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-</details>
-
-<details open>
-<summary><b>⚡ JavaScript/Node.js Environment</b></summary>
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-</details>
-
-<details open>
-<summary><b>🗄️ Database & Caching</b></summary>
-
-### Document Store
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Relational
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Caching
-![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
-</details>
-
-## 📊 Data Engineering Expertise
-
-<details open>
-<summary><b>🔍 Query Engines & Storage</b></summary>
-
-![Trino](https://img.shields.io/badge/Trino-DD00A1?style=for-the-badge&logo=trino&logoColor=white)
-![Apache Iceberg](https://img.shields.io/badge/Apache_Iceberg-4A154B?style=for-the-badge&logo=apache&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-</details>
-
-<details open>
-<summary><b>🛠️ Data Engineering Tools</b></summary>
-
-### Workflow Orchestration
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache%20airflow&logoColor=white)
-
-### Data Quality & Transformation
-![Great Expectations](https://img.shields.io/badge/Great_Expectations-FF6B6B?style=for-the-badge&logo=python&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
-
-### ETL & Processing
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
-![Kedro](https://img.shields.io/badge/Kedro-FCA17D?style=for-the-badge&logo=python&logoColor=white)
-
-### Stream Processing
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-</details>
-
-## 🛠️ DevOps & Tools
-
-<details open>
-<summary><b>Development Tools</b></summary>
-
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white)
-</details>
+**Databases & Infra**
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?style=flat-square&logo=github-actions&logoColor=white)
 
 ## 📊 GitHub Analytics & Achievements
 
@@ -138,21 +83,9 @@ me.say_hi()
 </tr>
 </table>
 
-### 🏅 Achievement Badges
+### 📈 GitHub Streak
 
-<div align="center">
-  <img src="https://img.shields.io/badge/🌈_Rainbow_Lang_User-16pt-FF69B4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/⭐_Hyper_Repo_Creator-3pt-9cf?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/👨‍💻_Experienced_Dev-15pt-blue?style=for-the-badge" />
-  <br/>
-  <img src="https://img.shields.io/badge/📈_Middle_Committer-33pt-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🤝_Many_Friends-12pt-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🔄_Middle_Puller-17pt-yellow?style=for-the-badge" />
-</div>
-
-### 📈 Contribution Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AngelPedroza&theme=tokyo-night&hide_border=true&include_all_commits=true)](https://github.com/AngelPedroza)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AngelPedroza&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%"/>
 
 </div>
 
