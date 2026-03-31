@@ -74,10 +74,7 @@ me.say_hi()
 
 <table>
 <tr>
-<td width="60%">
-  <img src="https://github-readme-stats.vercel.app/api?username=AngelPedroza&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-</td>
-<td width="40%">
+<td width="100%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelPedroza&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Most Used Languages"/>
 </td>
 </tr>
