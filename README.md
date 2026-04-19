@@ -1,3 +1,5 @@
+<div align="center">
+
 # 👨‍💻 Angel Pedroza
 
 ### Backend Engineer · AI Integrations · MCP
@@ -8,6 +10,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97E9&center=true&vCenter=true&width=500&lines=Backend+Engineer;AI+%26+Integrations;Building+with+MCP+%26+LangGraph)](https://git.io/typing-svg)
 
 ---
+
+</div>
 
 ## 🚀 About Me
 
@@ -87,4 +91,6 @@ me.say_hi()
 
 ---
 
-**🌟 "Code is like humor. When you have to explain it, it's bad." — Cory House 🌟**
+<div align="center">
+  <b>🌟 "Code is like humor. When you have to explain it, it's bad." — Cory House 🌟</b>
+</div>
